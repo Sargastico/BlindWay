@@ -3,6 +3,7 @@
 //Color sensor in function 
 //The code are in portuguese (Brazil), but, the next versions will be made in english too
 //Please check the component list for details
+//ASS: Sargastico, contact: fernandocaro54@hotmail.com
 
 char comando;
 
