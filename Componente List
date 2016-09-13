@@ -1,0 +1,10 @@
+The component list:
+
+Ultrasonic Sensor: HC-SR04 2x;
+Arduino UNO R3;
+Color sensor: TCS3200
+
+Libraries: For this project, it's not necessary the use of a specific library, just the specific functions as "void".
+
+ASS: Sargastico, contact: fernandocaro54@hotmail.com
+With you can colaborate with new ideas or a more efficient code, please contact me.
